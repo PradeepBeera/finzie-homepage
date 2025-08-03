@@ -1,3 +1,5 @@
+// Home page components import
+
 import Hero from './components/Hero.jsx';
 import Features from './components/Features.jsx';
 import About from './components/About.jsx';
